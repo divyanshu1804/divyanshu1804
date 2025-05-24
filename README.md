@@ -113,7 +113,7 @@ AI/ML-powered soil data analysis & smart farming recommendations
   <a href="https://leetcode.com/divyanshu3388/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=yellow" />
   </a>
-  <a href="https://codeforces.com/profile/app.route" target="_blank">
+  <a href="https://codeforces.com/profile/divyanshu3388" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-1f8acb?style=for-the-badge&logo=codeforces&logoColor=white" />
   </a>
 </p>
